@@ -15,21 +15,21 @@ allowBuilds:
 blockExoticSubdeps: true
 
 catalog:
-  '@prisma/dev': 0.24.14
+  '@prisma/dev': 0.25.2
   '@types/node': 25.9.4
-  '@types/pg': 8.20.0
+  '@types/pg': 8.23.1
   arktype: ^2.2.2
   gray-matter: ^4.0.3
-  mongodb: ^7.4.0
+  mongodb: ^7.6.0
   mongodb-memory-server: 11.2.0
-  pg: 8.22.0
-  tsdown: 0.22.8
-  tsx: ^4.23.0
+  pg: 8.23.0
+  tsdown: 0.23.0
+  tsx: ^4.23.13
   typescript: 5.9.3
   vite: 8.0.16
-  vitest: 4.1.10
-  vscode-languageserver: 10.1.0
-  vscode-languageserver-textdocument: 1.0.12
+  vitest: 4.1.11
+  vscode-languageserver: 10.1.1
+  vscode-languageserver-textdocument: 1.0.14
 
 cleanupUnusedCatalogs: true
 
