@@ -30,7 +30,7 @@
     "@prisma-next/test-utils": "workspace:0.16.0",
     "@prisma-next/tsconfig": "workspace:0.16.0",
     "@prisma-next/tsdown": "workspace:0.16.0",
-    "arktype": "^2.2.2",
+    "arktype": "^2.2.7",
     "tsdown": "catalog:",
     "typescript": "catalog:",
     "vitest": "catalog:"
