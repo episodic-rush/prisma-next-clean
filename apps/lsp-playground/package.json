@@ -33,15 +33,15 @@
     "vscode": "npm:@codingame/monaco-vscode-extension-api@^25.1.2",
     "vscode-jsonrpc": "^8.2.0",
     "vscode-languageclient": "~9.0.1",
-    "vscode-languageserver-protocol": "~3.18.2",
+    "vscode-languageserver-protocol": "~3.18.4",
     "vscode-ws-jsonrpc": "3.5.0",
-    "ws": "^8.21.1"
+    "ws": "^8.22.0"
   },
   "devDependencies": {
     "@prisma-next/cli": "workspace:0.16.0",
     "@prisma-next/tsconfig": "workspace:0.16.0",
     "@types/node": "catalog:",
-    "@types/ws": "^8.5.13",
+    "@types/ws": "^8.18.2",
     "puppeteer-core": "^25.3.0",
     "tsx": "catalog:",
     "typescript": "catalog:",
