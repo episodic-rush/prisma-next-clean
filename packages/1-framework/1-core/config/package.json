@@ -19,7 +19,7 @@
     "@prisma-next/contract": "workspace:0.16.0",
     "@prisma-next/framework-components": "workspace:0.16.0",
     "@prisma-next/utils": "workspace:0.16.0",
-    "arktype": "^2.2.2",
+    "arktype": "^2.2.8",
     "pathe": "^2.0.3"
   },
   "devDependencies": {
